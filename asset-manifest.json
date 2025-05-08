@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fotoflix/static/css/main.b2d638af.css",
-    "main.js": "/fotoflix/static/js/main.d8ac672e.js",
+    "main.js": "/fotoflix/static/js/main.c49968c6.js",
     "index.html": "/fotoflix/index.html",
     "main.b2d638af.css.map": "/fotoflix/static/css/main.b2d638af.css.map",
-    "main.d8ac672e.js.map": "/fotoflix/static/js/main.d8ac672e.js.map"
+    "main.c49968c6.js.map": "/fotoflix/static/js/main.c49968c6.js.map"
   },
   "entrypoints": [
     "static/css/main.b2d638af.css",
-    "static/js/main.d8ac672e.js"
+    "static/js/main.c49968c6.js"
   ]
 }
