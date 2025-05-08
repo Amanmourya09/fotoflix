@@ -1,3 +1,48 @@
+# 📸 PhotoFlix – A Beautiful Photo Gallery Web App
+
+> **A clean and elegant photo gallery built using React and powered by the Unsplash API.**
+
+---
+
+## 🔖 Overview
+**PhotoFlix** is a responsive web application that allows users to browse stunning high-resolution photos from talented photographers around the world. The app fetches images dynamically from the [Unsplash API](https://unsplash.com/developers) and provides features like search, infinite scroll, and favorites.
+
+---
+
+## 💡 Features
+
+✅ Browse trending photos  
+✅ Search for photos using keywords  
+✅ Infinite scrolling for seamless browsing  
+✅ Add/remove photos from favorites  
+✅ View favorites in a separate section  
+✅ Responsive design (mobile + desktop friendly)
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend**: React, React Router, React Icons  
+- **Styling**: CSS Modules / Styled Components  
+- **API**: [Unsplash API](https://unsplash.com/developers)  
+- **Deployment**: GitHub Pages  
+- **Build Tool**: Create React App
+
+---
+
+## 🔗 Live Demo  
+👉 [View Live Website](https://amanmourya09.github.io/fotoflix)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Amanmourya09/fotoflix.git
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
